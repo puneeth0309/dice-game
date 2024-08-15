@@ -1,7 +1,7 @@
-#Dice Game
+# Dice Game
 
 
-#Features
+# Features
 
 Two-player Mode: Play against a friend in real-time.
 
@@ -11,7 +11,7 @@ Rolling Dice: Random dice rolls for fair play.
 
 Score Tracking: Keeps track of each player's score.
 
-#How to Play
+# How to Play
 
 Start the Game: Launch the application to begin.
 
